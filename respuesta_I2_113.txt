@@ -17,20 +17,20 @@ e- realizar un listado, paso a paso ,de los comando necesarios para resolver est
 orden de ejecución de los mismos junto con los apellidos y nombre de los alumnos
 ALFA:
 E)Lista de comandos:
- Creacion del repositorio
+ Gonzalo rojas:Creacion del repositorio
 1)git init
 2)git add
 3)git commit
 4)git push
 5)git pull
- Descarga local y Agregado de datos
+ Juan Pablo Etchart y Lucas Da Silva Pinheiro:Descarga local y Agregado de datos
 6)git clone 
 7)git add .
 8)git commit -m ""
 9)git push origin
- Creacion de NuevoDato.txt
+ Gonzalo rojas:Creacion de NuevoDato.txt
 10) git add 
- Actualizacion del repositorio
+ Juan Pablo Etchart y Lucas Da Silva Pinheiro:Actualizacion del repositorio
 11)git remote add
 12)git fetch 
 13)git merge 
